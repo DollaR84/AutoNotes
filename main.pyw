@@ -1,5 +1,5 @@
 """
-Save auto repair notes..
+Save auto repair notes.
 
 Created on 25.05.2017
 
